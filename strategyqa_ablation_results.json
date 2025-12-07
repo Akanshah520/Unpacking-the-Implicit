@@ -1,0 +1,14 @@
+[
+  {
+    "variant":"k=5 retrieval",
+    "accuracy (%)":38.8
+  },
+  {
+    "variant":"baseline (k=3)",
+    "accuracy (%)":38.7
+  },
+  {
+    "variant":"no-cannot fallback",
+    "accuracy (%)":38.7
+  }
+]
